@@ -1,21 +1,29 @@
 # AI_Advanced_UE532
- Advanced AI implementations with Blueprint
+Developed with Unreal Engine 5.3.2 <br> 
+by: Katax
 
-Developed with Unreal Engine 5.3
+LinkedIn: www.linkedin.com/in/cliff-sharif<br> 
+Home: www.kataxwork.com<br> 
 
-by: Katax 
-
-
-LinkedIn: www.linkedin.com/in/cliff-sharif
-
-Home: www.kataxwork.com
-
+> [!NOTE]
+> Blueprint only
 
 This application:
 
-> Academic sample project, using blueprint to implement AI behaviour tree, AI controller, Blackboard, decorator, task and service including GameMode with blueprint to develop an advanced AI sample projects for teaching Unreal Engine. 
+>Advanced AI implementations<br>
+>Having 9 unique AI behaviour which are implemented within one character <br>
+>Depends on AI behaviour, player can use E key to activate emergency evac on map to change AI character`s reactions.<br>
 
-Having 9 unique AI behaviour which are implemented within one character. 
-Depends on AI behaviour, player can use E key to activate emergency evac on map to change AI character`s reactions.
 
+Using:
+
+GameMode<br>
+AI behaviour tree <br>
+AI controller<br>
+Blackboard<br>
+Decorator<br>
+AI Task<br>
+AI Service<br>
+
+<h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
 
